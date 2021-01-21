@@ -1,0 +1,21 @@
+.App {
+    max-width: 600px;
+    margin: auto;
+    padding: 2rem;
+  }
+  
+  body {
+    font-family: "Montserrat", sans-serif;
+    background-color: #efefef;
+  }
+  
+  .h1 {
+    font-family: "Balsamiq Sans";
+    font-style: italic;
+    color: black;
+    background-color: rgb(85, 248, 79);
+    padding: 0.5rem;
+    margin-right: 3in;
+    border-radius: 2rem;
+  }
+  
